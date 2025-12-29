@@ -1,4 +1,4 @@
-ElGamal Digital Signature Implementation
+# ElGamal Digital Signature Implementation
 
 This project implements a **Digital Signature Algorithm (DSA)** based on the **ElGamal signature scheme** using a **discrete logarithm problem (DLP)**. It provides both a **graphical user interface** and a **command-line interface** for key generation, file signing, and signature verification.
 
