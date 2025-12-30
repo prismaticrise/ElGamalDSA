@@ -51,7 +51,7 @@ java ElGamalGUITool -h
 
 ## Security Notes
 - Uses Java’s `SecureRandom` for cryptographically strong randomness.
-- Default key size: **512 bits** (suitable for educational purposes; **not recommended for production**.
+- Default key size: **512 bits** (suitable for educational purposes; **not recommended for production**).
 
 > **Important**: This implementation wal developed as an educational project and is intended for **demonstration purposes only**. Do not use it in production systems without a thorough security review and parameter hardening.
 
